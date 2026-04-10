@@ -1,0 +1,7 @@
+mesa
+negmas
+scikit-learn
+numpy
+pandas
+streamlit
+matplotlib
