@@ -72,11 +72,7 @@ https://drive.google.com/drive/folders/1D7to-778vIwq4W1uDvFRcSRr9Nc9YygP?usp=sha
 
 ## Research Work
 
-I have also submitted a research paper based on this project to:
-
-2nd International Conference on Information, Implementation and Innovation in Technology (ICIIIT)
-
-(Status: Submitted for peer review, 2026)
+Status: A research manuscript based on this project has been prepared and is currently being revised for submission to a peer-reviewed 
 
 ---
 
